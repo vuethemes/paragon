@@ -34,6 +34,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
+  <a href="#lighthouse">Lighthouse</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#structure">Structure</a> •
@@ -43,7 +44,15 @@
   <a href="#contributing">Contributing</a>
 </p>
 
-![screenshot](https://github.com/vuethemes/paragon/blob/master/paragonVueThemes.gif)
+
+<p align="center">
+  <br>
+    <a href="https://vuethemes.org/theme/paragon">
+  <img width=60% src="https://github.com/vuethemes/paragon/blob/master/paragonVueThemes.gif" alt="Paragon Preview"></a> <br>
+  <br>
+  <img width=60% src="https://github.com/vuethemes/paragon/blob/master/paragonLighthouseScreenshot.png" alt="Paragon Lighthouse Scores"></a> <br>
+  <br>
+</p>
 
 
 ## ✅&nbsp; Key Features
@@ -51,6 +60,7 @@
   - a Vue.js powered Jamstack framework for building static generated websites & apps that are fast by default 
 * Hot Reload - Make changes, See changes
   - Instantly see what your changes look like in the browser as you create them.
+* 100 Lighthouse Scores!
 * Easy-to-read, easy-to-write Markdown for blog posts 
 * Convertkit form integration 
 * Font Awesome integration to easily add icons 
@@ -67,6 +77,18 @@
   - Get access to the first version today, plus new updates until we're out of ideas.
 * World class support by us! 
   - Reach out any time we are here to help! 
+
+
+## 🏆&nbsp; Lighthouse 
+
+<p align="center">
+  <br>
+    <a href="https://vuethemes.org/theme/paragon">
+     <img width=60% src="https://github.com/vuethemes/paragon/blob/master/paragonLighthouseScreenshot.png" alt="Paragon Lighthouse Score screenshot"></a> <br>
+  <img width=60% src="https://github.com/vuethemes/paragon/blob/master/paragonLighthouse.gif" alt="Paragon Lighthouse Score gif"></a> <br>
+  <br>
+</p>
+
 
 
 ## 🚀&nbsp; How To Use
