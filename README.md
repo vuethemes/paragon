@@ -50,8 +50,6 @@
     <a href="https://vuethemes.org/theme/paragon">
   <img width=60% src="https://github.com/vuethemes/paragon/blob/master/paragonVueThemes.gif" alt="Paragon Preview"></a> <br>
   <br>
-  <img width=60% src="https://github.com/vuethemes/paragon/blob/master/paragonLighthouseScreenshot.png" alt="Paragon Lighthouse Scores"></a> <br>
-  <br>
 </p>
 
 
