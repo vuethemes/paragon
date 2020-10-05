@@ -1,0 +1,44 @@
+{
+  "name": "paragon-gridsome-theme",
+  "description": "A gridsome boilerplate for blog/portfolio website development",
+  "version": "1.1.1",
+  "homepage": "https://paragon.vuethemes.org",
+  "author": {
+    "name": "Vue Themes",
+    "url": "https://vuethemes.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuethemes/paragon.git"
+  },
+  "license": "https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz",
+  "bugs": {
+    "url": "https://github.com/vuethemes/paragon/issues"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vuethemes",
+    "gridsome",
+    "gridsome starter",
+    "gridsome template",
+    "gridsome boilerplate",
+    "portfolio",
+    "blog",
+    "boilerplate"
+  ],
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.6.1",
+    "gridsome": "^0.7.0"
+  }
+}
