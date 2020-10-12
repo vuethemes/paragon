@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Paragon is a modern and clean Gridsome starter theme for your blog or portfolio site. ✨&nbsp; We made it easy to start taking action with organized directory structure and component driven development.</h4>
+<h4 align="center">Paragon is a modern and clean Gridsome theme for your blog or portfolio site. ✨&nbsp; We made it easy to start taking action with organized directory structure and component driven development.</h4>
 
 <p align="center">
   <a href="https://img.shields.io/badge/">
