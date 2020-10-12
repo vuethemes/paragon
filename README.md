@@ -86,13 +86,16 @@
 
 ## 🚀&nbsp; How To Use
 
-To run this application, you'll need to purchase the theme from [Vue Themes](https://vuethemes.org/theme/paragon) and have [npm](http://npmjs.com)) and [Gridsome CLI tool](https://gridsome.org/docs) installed on your computer. From your command line:
+To run this application, you'll need to purchase the theme from [Vue Themes](https://vuethemes.org/theme/paragon) and then run the following commands:
 
 ```bash
-# Install Gridsome
-$ npm install --global @gridsome/cli
+# Install npm (npm is installed with Node.js)
+$ npm install npm@latest -g
 
-# Go into the repository
+# Install Gridsome CLI tool
+$ npm install -g @gridsome/cliFrom your command line:
+
+# Navigate into the repository
 $ cd paragon-vuethemes
 
 # Install dependencies
