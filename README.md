@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Paragon is a modern and clean Gridsome theme for your blog or portfolio site. ✨&nbsp; We made it easy to start taking action with organized directory structure and component driven development.</h4>
+<h4 align="center">Create your Markdown blog and present your portfolio using Paragon, a modern and clean Gridsome theme. ✨&nbsp; We made it easy to start taking action with organized directory structure and component driven development. Like what you see? Visit <a href="https://vuethemes.org"> our website</a>for a curated showcase of awesome community starters, boilerplates, templates as well as free and premium themes. </h4>
 
 <p align="center">
   <a href="https://img.shields.io/badge/">
