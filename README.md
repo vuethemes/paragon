@@ -115,45 +115,12 @@ $ gridsome explore
 
 Here is where you can [download](https://vuethemes.org/theme/paragon) the latest installable version of Paragon.
 
-## 🌲&nbsp; Structure
-
-We've tried our best to develop this theme using a logical component driven structure that is easy to customize. The following section shows the theme files, structure, and plugins.
-
-<pre>
-┣ blog/
-┃ ┣ blog-design.md
-┃ ┣ cyberspace.md
-┃ ┣ first-post.md
-┃ ┗ meaning.md
-┣ src/
-┃ ┣ assets/
-┃ ┣ styles.css
-┃ ┣ components/
-┃ ┃ ┣ BlogPostList.vue
-┃ ┃ ┗ BuyMeACoffee.vue
-┃ ┣ layouts/
-┃ ┃ ┗ Default.vue
-┃ ┣ pages/
-┃ ┃ ┣ About.vue
-┃ ┃ ┣ Blog.vue
-┃ ┃ ┣ Index.vue
-┃ ┃ ┗ Newsletter.vue
-┃ ┣ templates/
-┃ ┃ ┗ BlogPost.vue
-┃ ┣ favicon.png
-┃ ┗ main.js
-┣ gridsome.config.js
-┣ gridsome.server.js
-┗ package.json	
-</pre>
-
 ## 👍&nbsp; Credits
 
 This software uses the following open source packages:
 
 - [Gridsome](https://gridsome.org/)
 - [npm](https://www.npmjs.com/)
-- [GraphQL](https://graphql.org/)
 - [Markdown](https://www.markdownguide.org/)
 - [3D Book Image CSS Generator](https://github.com/scastiel/3d-book-image-css-generator)
 
@@ -167,8 +134,8 @@ Feel free to file an [issue](https://github.com/vuethemes/paragon/issues). If yo
 
 ## 📘&nbsp; License
 
-You are free to use SaaS for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
+You are free to use Paragon for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
 
 ## 💚&nbsp; Contributing & Partnerships
 
-Love building with Vue.js? A big part of what makes Vue Themes great is each and every one of you in the community. Your contributions enrich the Vue Themes experience and make it better every day. We welcome all contributions from you in the community, and would be thrilled to amplify your voice. Contributions are not limited to code, and can take all shapes and forms: Your wonderful Vue.js website, starter, UI components, blog posts and anything else you can think of! Please submit your name and submission info ex. GitHub repository/post/content url to [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org/) with the subject line: “VUE THEMES SUBMISSION”. Feel free to reach out to us if you have any questions about contributing!
+Love building with Gridsome? A big part of what makes Vue Themes great is each and every one of you in the community. Your contributions enrich the Vue Themes experience and make it better every day. We welcome all contributions from you in the community, and would be thrilled to amplify your voice. Contributions are not limited to code, and can take all shapes and forms: Your wonderful website, starter, UI components, blog posts and anything else you can think of! Please submit your name and submission info ex. GitHub repository/post/content url to [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org/) with the subject line: “VUE THEMES SUBMISSION”. Feel free to reach out to us if you have any questions about contributing!
